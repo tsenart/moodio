@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "LXhNj7qHm199pMMqiRzY9c5/dPk=",
+			"path": "github.com/gorilla/websocket",
+			"revision": "9007e29a7c93fc3dcebbdbf742ce0efaf19e6510",
+			"revisionTime": "2014-11-17T12:16:34Z"
+		},
+		{
+			"checksumSHA1": "KNKo+rGO6W30inlc6Nb+EdF+U5w=",
+			"path": "github.com/tsenart/spotify",
+			"revision": "bbb2f36a8ce9a56d3e3c66c4b90b166df55b0011",
+			"revisionTime": "2016-07-17T11:17:11Z"
+		},
+		{
+			"checksumSHA1": "yEHS3RjmSk7Ijg57xwVaSEP5Hb8=",
+			"path": "golang.org/x/oauth2",
+			"revision": "36ff901f7b5bce4fa4f23b4e0e02ab9a70ebf3ec",
+			"revisionTime": "2015-05-10T20:33:37Z"
+		}
+	],
+	"rootPath": "github.com/tsenart/moodio"
+}
